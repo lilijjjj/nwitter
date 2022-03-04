@@ -1,4 +1,5 @@
 {
+  "homepage": "https://lilijjjj.github.io/nwitter",
   "name": "nwitter",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +14,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "firebase": "^9.6.1",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^3.2.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
